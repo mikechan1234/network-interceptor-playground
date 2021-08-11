@@ -1,0 +1,1501 @@
+{
+  "feed": {
+    "title": "Top Songs",
+    "id": "https://rss.itunes.apple.com/api/v1/kr/apple-music/top-songs/all/50/explicit.json",
+    "author": {
+      "name": "iTunes Store",
+      "uri": "http://wwww.apple.com/kr/itunes/"
+    },
+    "links": [
+      {
+        "self": "https://rss.itunes.apple.com/api/v1/kr/apple-music/top-songs/all/50/explicit.json"
+      },
+      {
+        "alternate": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?genreId=34&;popId=81&app=music"
+      }
+    ],
+    "copyright": "Copyright © 2018 Apple Inc. Todos os direitos reservados.",
+    "country": "kr",
+    "icon": "http://itunes.apple.com/favicon.ico",
+    "updated": "2021-08-09T01:24:54.000-07:00",
+    "results": [
+      {
+        "artistName": "악동뮤지션",
+        "id": "1577524107",
+        "releaseDate": "2021-07-26",
+        "name": "낙하 (with 아이유)",
+        "collectionName": "NEXT EPISODE - EP",
+        "kind": "song",
+        "copyright": "℗ 2021 YG Entertainment",
+        "artistId": "747306596",
+        "artistUrl": "https://music.apple.com/kr/artist/%EC%95%85%EB%8F%99%EB%AE%A4%EC%A7%80%EC%85%98/747306596?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/12/31/63/12316366-55bb-065c-8ad9-47e107fa79b2/AKMU_NEXT_EPISODE.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/kr/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/%EB%82%99%ED%95%98-with-%EC%95%84%EC%9D%B4%EC%9C%A0/1577524102?i=1577524107&;app=music"
+      },
+      {
+        "artistName": "The Kid LAROI & Justin Bieber",
+        "id": "1574378625",
+        "releaseDate": "2021-07-09",
+        "name": "Stay",
+        "collectionName": "Stay - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Columbia Records, a Division of Sony Music Entertainment",
+        "artistId": "1435848034",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=kr&;ids=1435848034-320569549&app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/e8/eb/cc/e8ebcc8d-6293-6e7f-7cc5-defa2bdbd4bd/886449399895.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/stay/1574378620?i=1574378625&;app=music"
+      },
+      {
+        "artistName": "방탄소년단",
+        "id": "1574764723",
+        "releaseDate": "2021-07-09",
+        "name": "Permission to Dance",
+        "collectionName": "Butter / Permission to Dance - EP",
+        "kind": "song",
+        "copyright": "℗ 2021 BIGHIT MUSIC",
+        "artistId": "883131348",
+        "artistUrl": "https://music.apple.com/kr/artist/%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8/883131348?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/55/14/36/55143686-0d3a-e2d0-361b-388a9f64200d/196006991739.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/kr/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/permission-to-dance/1574764445?i=1574764723&;app=music"
+      },
+      {
+        "artistName": "aespa",
+        "id": "1567326688",
+        "releaseDate": "2021-05-17",
+        "name": "Next Level",
+        "collectionName": "Next Level - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 SM Entertainment",
+        "artistId": "1540251304",
+        "artistUrl": "https://music.apple.com/kr/artist/aespa/1540251304?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/81/18/4e/81184eca-0656-f4f6-fa15-474545c2c359/artwork.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/kr/genre/id51"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/next-level/1567326687?i=1567326688&;app=music"
+      },
+      {
+        "artistName": "태연",
+        "id": "1574308371",
+        "releaseDate": "2021-07-06",
+        "name": "Weekend",
+        "collectionName": "Weekend - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 SM Entertainment",
+        "artistId": "435966642",
+        "artistUrl": "https://music.apple.com/kr/artist/%ED%83%9C%EC%97%B0/435966642?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/bf/24/e1/bf24e11b-32c4-da05-2331-d94a5f26b0ea/Digital_Cover_TAEYEON_Weekend.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/kr/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/weekend/1574308369?i=1574308371&;app=music"
+      },
+      {
+        "artistName": "방탄소년단",
+        "id": "1568022659",
+        "releaseDate": "2021-05-21",
+        "name": "Butter",
+        "collectionName": "Butter - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 BIGHIT MUSIC / HYBE",
+        "artistId": "883131348",
+        "artistUrl": "https://music.apple.com/kr/artist/%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8/883131348?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/7b/18/e3/7b18e344-d6b2-ed71-878f-9aaebf065dd6/196006691660.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/kr/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/butter/1568022647?i=1568022659&;app=music"
+      },
+      {
+        "artistName": "Ed Sheeran",
+        "id": "1571330212",
+        "releaseDate": "2021-06-25",
+        "name": "Bad Habits",
+        "collectionName": "Bad Habits - Single",
+        "kind": "song",
+        "copyright": "An Asylum Records UK release, a division of Atlantic Records UK, ℗ 2021 Warner Music UK Limited",
+        "artistId": "183313439",
+        "artistUrl": "https://music.apple.com/kr/artist/ed-sheeran/183313439?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/aa/02/57/aa025710-a0c6-90e9-4a18-2881efad4855/190296614316.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/bad-habits/1571330207?i=1571330212&;app=music"
+      },
+      {
+        "artistName": "소미",
+        "id": "1578447630",
+        "releaseDate": "2021-08-02",
+        "name": "DUMB DUMB",
+        "collectionName": "DUMB DUMB - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 THE BLACK LABEL, under license to YG PLUS",
+        "artistId": "1218803768",
+        "artistUrl": "https://music.apple.com/kr/artist/%EC%86%8C%EB%AF%B8/1218803768?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e4/70/a2/e470a260-8b32-3339-97ff-36d22100194d/DUMB_DUMB.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/kr/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/dumb-dumb/1578447629?i=1578447630&;app=music"
+      },
+      {
+        "artistName": "이무진",
+        "id": "1567544638",
+        "releaseDate": "2021-05-14",
+        "name": "신호등",
+        "collectionName": "신호등 - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 쇼플레이엔터테인먼트ShowPLAY ENTERTAINMENT),under license to Kakao Entertainment",
+        "artistId": "1567544636",
+        "artistUrl": "https://music.apple.com/kr/artist/%EC%9D%B4%EB%AC%B4%EC%A7%84/1567544636?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/1b/d7/a3/1bd7a3bb-7c77-7a72-dd2e-dfb614c60182/cover-_ONLINE_COVER_0506.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/kr/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          },
+          {
+            "genreId": "21",
+            "name": "록",
+            "url": "https://itunes.apple.com/kr/genre/id21"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/%EC%8B%A0%ED%98%B8%EB%93%B1/1567544635?i=1567544638&;app=music"
+      },
+      {
+        "artistName": "The Weeknd",
+        "id": "1579408008",
+        "releaseDate": "2021-08-06",
+        "name": "Take My Breath",
+        "collectionName": "Take My Breath - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 The Weeknd XO, Inc., marketed by Republic Records, a division of UMG Recordings, Inc.",
+        "artistId": "479756766",
+        "artistUrl": "https://music.apple.com/kr/artist/the-weeknd/479756766?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b1/1b/10/b11b1074-5109-7bfc-32f0-8b49eaaeb9ac/21UMGIM75290.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "15",
+            "name": "R&B/소울",
+            "url": "https://itunes.apple.com/kr/genre/id15"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/take-my-breath/1579408007?i=1579408008&;app=music"
+      },
+      {
+        "artistName": "아이유",
+        "id": "1560113134",
+        "releaseDate": "2021-03-25",
+        "name": "라일락",
+        "collectionName": "IU 5th Album 'LILAC'",
+        "kind": "song",
+        "copyright": "℗ 2021 EDAM엔터테인먼트(EDAM Entertainment),under license to Kakao Entertainment",
+        "artistId": "409076743",
+        "artistUrl": "https://music.apple.com/kr/artist/%EC%95%84%EC%9D%B4%EC%9C%A0/409076743?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/35/9f/83/359f83b3-1423-3153-1641-98e948b7fc65/cover_-_EDAM_5_LILAC.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/kr/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/%EB%9D%BC%EC%9D%BC%EB%9D%BD/1560113132?i=1560113134&;app=music"
+      },
+      {
+        "artistName": "Justin Bieber",
+        "id": "1556175857",
+        "releaseDate": "2021-03-19",
+        "name": "Peaches (feat. Daniel Caesar & GIVĒON)",
+        "collectionName": "Justice",
+        "kind": "song",
+        "copyright": "℗ 2021 Def Jam Recordings, a division of UMG Recordings, Inc.",
+        "artistId": "320569549",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/kr/artist/justin-bieber/320569549?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/f5/7a/9e/f57a9e6a-31c8-0784-dfbd-4a0120bfd4af/21UMGIM17517.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/peaches-feat-daniel-caesar-giv%C4%93on/1556175419?i=1556175857&;app=music"
+      },
+      {
+        "artistName": "선미",
+        "id": "1577333322",
+        "releaseDate": "2021-08-06",
+        "name": "You can't sit with us",
+        "collectionName": "6분의1 - EP",
+        "kind": "song",
+        "copyright": "℗ 2021 Abyss Company",
+        "artistId": "693899983",
+        "artistUrl": "https://music.apple.com/kr/artist/%EC%84%A0%EB%AF%B8/693899983?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5e/ac/05/5eac0519-56b1-e4ae-0351-d172cf0dd7bc/196292113266.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/kr/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/you-cant-sit-with-us/1577333067?i=1577333322&;app=music"
+      },
+      {
+        "artistName": "Lil Nas X & Jack Harlow",
+        "id": "1576552565",
+        "releaseDate": "2021-07-23",
+        "name": "INDUSTRY BABY",
+        "collectionName": "INDUSTRY BABY - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Columbia Records, a Division of Sony Music Entertainment",
+        "artistId": "1400730578",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=kr&;ids=1400730578-1047679432&app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/79/d7/66/79d7669f-36ff-46fb-16cb-b86fd321ef25/886449403912.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "힙합/랩",
+            "url": "https://itunes.apple.com/kr/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/industry-baby/1576552540?i=1576552565&;app=music"
+      },
+      {
+        "artistName": "방탄소년단",
+        "id": "1529518695",
+        "releaseDate": "2020-08-21",
+        "name": "Dynamite",
+        "collectionName": "Dynamite (DayTime Version)",
+        "kind": "song",
+        "copyright": "℗ 2020 BIGHIT MUSIC / HYBE",
+        "artistId": "883131348",
+        "artistUrl": "https://music.apple.com/kr/artist/%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8/883131348?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/d9/79/94/d979945e-5b26-75cd-03a6-d98add553af0/195497146918.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/kr/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/dynamite/1529518691?i=1529518695&;app=music"
+      },
+      {
+        "artistName": "디핵 & 파테코",
+        "id": "1560972978",
+        "releaseDate": "2020-06-20",
+        "name": "OHAYO MY NIGHT",
+        "collectionName": "OHAYO MY NIGHT - Single",
+        "kind": "song",
+        "copyright": "℗ 2020 NEOKIDZ, under license to YG PLUS",
+        "artistId": "548608346",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=kr&;ids=548608346-1519175224&app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/e1/d2/5b/e1d25b4f-9346-47c8-d03d-ed2c507401ea/D-Hack_PATEKO_OHAYO_MY_NIGHT.png/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/kr/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          },
+          {
+            "genreId": "18",
+            "name": "힙합/랩",
+            "url": "https://itunes.apple.com/kr/genre/id18"
+          },
+          {
+            "genreId": "1242",
+            "name": "한국 힙합",
+            "url": "https://itunes.apple.com/kr/genre/id1242"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/ohayo-my-night/1560972977?i=1560972978&;app=music"
+      },
+      {
+        "artistName": "악동뮤지션",
+        "id": "1577524106",
+        "releaseDate": "2021-07-26",
+        "name": "전쟁터 (with 이선희)",
+        "collectionName": "NEXT EPISODE - EP",
+        "kind": "song",
+        "copyright": "℗ 2021 YG Entertainment",
+        "artistId": "747306596",
+        "artistUrl": "https://music.apple.com/kr/artist/%EC%95%85%EB%8F%99%EB%AE%A4%EC%A7%80%EC%85%98/747306596?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/12/31/63/12316366-55bb-065c-8ad9-47e107fa79b2/AKMU_NEXT_EPISODE.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/kr/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/%EC%A0%84%EC%9F%81%ED%84%B0-with-%EC%9D%B4%EC%84%A0%ED%9D%AC/1577524102?i=1577524106&;app=music"
+      },
+      {
+        "artistName": "TWICE",
+        "id": "1570801286",
+        "releaseDate": "2021-06-09",
+        "name": "Alcohol-Free",
+        "collectionName": "Taste of Love - EP",
+        "kind": "song",
+        "copyright": "℗ 2021 JYP Entertainment",
+        "artistId": "1203816887",
+        "artistUrl": "https://music.apple.com/kr/artist/twice/1203816887?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/87/14/f2/8714f275-1571-a31e-ee68-8e60b08599fe/dj.ykcdwwzn.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/kr/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          },
+          {
+            "genreId": "17",
+            "name": "댄스",
+            "url": "https://itunes.apple.com/kr/genre/id17"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/alcohol-free/1570801285?i=1570801286&;app=music"
+      },
+      {
+        "artistName": "Doja Cat",
+        "id": "1561866170",
+        "releaseDate": "2021-04-09",
+        "name": "Kiss Me More (feat. SZA)",
+        "collectionName": "Kiss Me More (feat. SZA) - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Kemosabe Records/RCA Records",
+        "artistId": "830588310",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/kr/artist/doja-cat/830588310?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/3f/e7/43/3fe743ea-77e8-5680-d2f7-4eaf1d45cebe/886449138791.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/kiss-me-more-feat-sza/1561866167?i=1561866170&;app=music"
+      },
+      {
+        "artistName": "아이유",
+        "id": "1550907178",
+        "releaseDate": "2021-01-27",
+        "name": "Celebrity",
+        "collectionName": "Celebrity - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 EDAM엔터테인먼트(EDAM Entertainment),under license to Kakao Entertainment",
+        "artistId": "409076743",
+        "artistUrl": "https://music.apple.com/kr/artist/%EC%95%84%EC%9D%B4%EC%9C%A0/409076743?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/02/32/09/02320995-35fb-e63f-fb52-76595b70ed45/1.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/kr/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/celebrity/1550907177?i=1550907178&;app=music"
+      },
+      {
+        "artistName": "Marshmello & Jonas Brothers",
+        "id": "1568213204",
+        "releaseDate": "2021-05-21",
+        "name": "Leave Before You Love Me",
+        "collectionName": "Leave Before You Love Me - Single",
+        "kind": "song",
+        "copyright": "Republic Records; ℗ 2021 Joytime Collective, under exclusive license to UMG Recordings, Inc.",
+        "artistId": "980795202",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=kr&;ids=980795202-114342891&app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/be/3f/fb/be3ffbd6-5413-75b2-4efb-b8be7787820e/21UMGIM44955.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/leave-before-you-love-me/1568213123?i=1568213204&;app=music"
+      },
+      {
+        "artistName": "Olivia Rodrigo",
+        "id": "1560735551",
+        "releaseDate": "2021-05-21",
+        "name": "good 4 u",
+        "collectionName": "SOUR",
+        "kind": "song",
+        "copyright": "℗ 2021 Olivia Rodrigo, under exclusive license to Geffen Records",
+        "artistId": "979458609",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/kr/artist/olivia-rodrigo/979458609?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/e1/79/61/e1796180-6f6f-fbaa-6aa8-8e1516ac49c6/21UMGIM26092.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/good-4-u/1560735414?i=1560735551&;app=music"
+      },
+      {
+        "artistName": "NCT DREAM",
+        "id": "1573200614",
+        "releaseDate": "2021-06-28",
+        "name": "Hello Future",
+        "collectionName": "Hello Future - The 1st Album Repackage",
+        "kind": "song",
+        "copyright": "℗ 2021 SM Entertainment",
+        "artistId": "1208839599",
+        "artistUrl": "https://music.apple.com/kr/artist/nct-dream/1208839599?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/df/96/8e/df968ee9-ab22-1f14-a2ee-4943204b2324/cover.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/kr/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/hello-future/1573200613?i=1573200614&;app=music"
+      },
+      {
+        "artistName": "오마이걸",
+        "id": "1565769109",
+        "releaseDate": "2021-05-10",
+        "name": "Dun Dun Dance",
+        "collectionName": "Dear OHMYGIRL - EP",
+        "kind": "song",
+        "copyright": "℗ 2021 WM ENTERTAINMENT INC.",
+        "artistId": "987326929",
+        "artistUrl": "https://music.apple.com/kr/artist/%EC%98%A4%EB%A7%88%EC%9D%B4%EA%B1%B8/987326929?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/43/c3/80/43c38049-c41a-8efc-8b5d-fc72ccb62177/886449274413.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/kr/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/dun-dun-dance/1565769105?i=1565769109&;app=music"
+      },
+      {
+        "artistName": "Bruno Mars, Anderson .Paak & Silk Sonic",
+        "id": "1578738184",
+        "releaseDate": "2021-07-30",
+        "name": "Skate",
+        "collectionName": "Skate - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Aftermath Entertainment and Atlantic Recording Corporation",
+        "artistId": "278873078",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=kr&;ids=278873078-855484536-1556097160&app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9b/f5/02/9bf502cb-56ed-8b35-8a7e-bed47c9a2300/075679772893.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "15",
+            "name": "R&B/소울",
+            "url": "https://itunes.apple.com/kr/genre/id15"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/skate/1578738180?i=1578738184&;app=music"
+      },
+      {
+        "artistName": "악동뮤지션",
+        "id": "1577524109",
+        "releaseDate": "2021-07-26",
+        "name": "째깍 째깍 째깍 (with Beenzino)",
+        "collectionName": "NEXT EPISODE - EP",
+        "kind": "song",
+        "copyright": "℗ 2021 YG Entertainment",
+        "artistId": "747306596",
+        "artistUrl": "https://music.apple.com/kr/artist/%EC%95%85%EB%8F%99%EB%AE%A4%EC%A7%80%EC%85%98/747306596?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/12/31/63/12316366-55bb-065c-8ad9-47e107fa79b2/AKMU_NEXT_EPISODE.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/kr/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/%EC%A7%B8%EA%B9%8D-%EC%A7%B8%EA%B9%8D-%EC%A7%B8%EA%B9%8D-with-beenzino/1577524102?i=1577524109&;app=music"
+      },
+      {
+        "artistName": "헤이즈",
+        "id": "1571238729",
+        "releaseDate": "2021-05-20",
+        "name": "헤픈 우연",
+        "collectionName": "HAPPEN",
+        "kind": "song",
+        "copyright": "℗ 2021 P NATION",
+        "artistId": "805276942",
+        "artistUrl": "https://music.apple.com/kr/artist/%ED%97%A4%EC%9D%B4%EC%A6%88/805276942?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/9d/7a/07/9d7a0778-c784-85c5-d01d-b11072c5a820/888272080711_Cover.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/kr/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/%ED%97%A4%ED%94%88-%EC%9A%B0%EC%97%B0/1571238727?i=1571238729&;app=music"
+      },
+      {
+        "artistName": "디오",
+        "id": "1576354508",
+        "releaseDate": "2021-07-26",
+        "name": "Rose",
+        "collectionName": "공감 - The 1st Mini Album",
+        "kind": "song",
+        "copyright": "℗ 2021 SM Entertainment",
+        "artistId": "1364148883",
+        "artistUrl": "https://music.apple.com/kr/artist/%EB%94%94%EC%98%A4/1364148883?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/00/f6/64/00f66459-9fb2-de35-7172-4a31ff6da8d9/Digital_Cover_D.O._Empathy_-_The_1st_Mini_Album.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/kr/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/rose/1576354507?i=1576354508&;app=music"
+      },
+      {
+        "artistName": "M.O.M",
+        "id": "1574008699",
+        "releaseDate": "2021-06-26",
+        "name": "바라만 본다",
+        "collectionName": "MSG워너비 1집 - EP",
+        "kind": "song",
+        "copyright": "℗ 2021 YOOYAHO",
+        "artistId": "1568661372",
+        "artistUrl": "https://music.apple.com/kr/artist/m-o-m/1568661372?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/4c/3d/b1/4c3db121-4ded-322d-b9de-b5a759571ef5/888272082760_Cover.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/kr/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/%EB%B0%94%EB%9D%BC%EB%A7%8C-%EB%B3%B8%EB%8B%A4/1574008694?i=1574008699&;app=music"
+      },
+      {
+        "artistName": "The Weeknd & Ariana Grande",
+        "id": "1563812775",
+        "releaseDate": "2021-04-23",
+        "name": "Save Your Tears (Remix)",
+        "collectionName": "Save Your Tears (Remix) - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 The Weeknd XO, Inc., marketed by Republic Records, a division of UMG Recordings, Inc.",
+        "artistId": "479756766",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=kr&;ids=479756766-412778295&app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c6/f0/59/c6f059f8-9323-de18-590e-f67728850d6f/21UMGIM33221.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "15",
+            "name": "R&B/소울",
+            "url": "https://itunes.apple.com/kr/genre/id15"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/save-your-tears-remix/1563812774?i=1563812775&;app=music"
+      },
+      {
+        "artistName": "Billie Eilish",
+        "id": "1564531202",
+        "releaseDate": "2021-07-30",
+        "name": "Happier Than Ever",
+        "collectionName": "Happier Than Ever",
+        "kind": "song",
+        "copyright": "℗ 2021 Darkroom/Interscope Records",
+        "artistId": "1065981054",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/kr/artist/billie-eilish/1065981054?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/2d/f3/c9/2df3c9fd-e0eb-257c-c035-b04f05a66580/21UMGIM36691.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "얼터너티브",
+            "url": "https://itunes.apple.com/kr/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/happier-than-ever/1564530719?i=1564531202&;app=music"
+      },
+      {
+        "artistName": "Bruno Mars, Anderson .Paak & Silk Sonic",
+        "id": "1556097162",
+        "releaseDate": "2021-03-05",
+        "name": "Leave The Door Open",
+        "collectionName": "Leave The Door Open - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Aftermath Entertainment and Atlantic Recording Corporation",
+        "artistId": "278873078",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=kr&;ids=278873078-855484536-1556097160&app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/36/8b/5c/368b5c12-725e-e85d-36be-5287461cc0a2/075679788337.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "15",
+            "name": "R&B/소울",
+            "url": "https://itunes.apple.com/kr/genre/id15"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/leave-the-door-open/1556096966?i=1556097162&;app=music"
+      },
+      {
+        "artistName": "아이유",
+        "id": "1511885178",
+        "releaseDate": "2020-05-06",
+        "name": "에잇 (feat. SUGA)",
+        "collectionName": "에잇 (feat. SUGA) - Single",
+        "kind": "song",
+        "copyright": "℗ 2020 EDAM Entertainment,under license to Kakao Entertainment",
+        "artistId": "409076743",
+        "artistUrl": "https://music.apple.com/kr/artist/%EC%95%84%EC%9D%B4%EC%9C%A0/409076743?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/6b/65/4d/6b654d71-ed85-c6c4-8fe2-ef3d8e9f2ee0/cover_-.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/kr/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          },
+          {
+            "genreId": "21",
+            "name": "록",
+            "url": "https://itunes.apple.com/kr/genre/id21"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/%EC%97%90%EC%9E%87-feat-suga/1511885175?i=1511885178&;app=music"
+      },
+      {
+        "artistName": "잔나비",
+        "id": "1578636393",
+        "releaseDate": "2021-07-28",
+        "name": "외딴섬 로맨틱",
+        "collectionName": "환상의 나라",
+        "kind": "song",
+        "copyright": "℗ 2021 (주)페포니뮤직(PEPONI MUSIC),under license to Kakao Entertainment",
+        "artistId": "913424316",
+        "artistUrl": "https://music.apple.com/kr/artist/%EC%9E%94%EB%82%98%EB%B9%84/913424316?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2f/92/25/2f922513-0da1-5c2d-2ee2-c9cbca86457e/2.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/kr/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          },
+          {
+            "genreId": "21",
+            "name": "록",
+            "url": "https://itunes.apple.com/kr/genre/id21"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/%EC%99%B8%EB%94%B4%EC%84%AC-%EB%A1%9C%EB%A7%A8%ED%8B%B1/1578636382?i=1578636393&;app=music"
+      },
+      {
+        "artistName": "BLACKPINK",
+        "id": "1533366880",
+        "releaseDate": "2020-10-02",
+        "name": "Lovesick Girls",
+        "collectionName": "THE ALBUM",
+        "kind": "song",
+        "copyright": "℗ 2020 YG Entertainment",
+        "artistId": "1141774019",
+        "artistUrl": "https://music.apple.com/kr/artist/blackpink/1141774019?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/bf/e0/de/bfe0de79-5843-e05e-32ff-21276cf1936c/BLACKPINK_Crown_0728.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/kr/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/lovesick-girls/1533366575?i=1533366880&;app=music"
+      },
+      {
+        "artistName": "아이유",
+        "id": "1488300930",
+        "releaseDate": "2019-11-18",
+        "name": "Blueming",
+        "collectionName": "Love Poem - EP",
+        "kind": "song",
+        "copyright": "℗ 2019 Kakao Entertainment,under license to Kakao Entertainment",
+        "artistId": "409076743",
+        "artistUrl": "https://music.apple.com/kr/artist/%EC%95%84%EC%9D%B4%EC%9C%A0/409076743?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/b8/b8/18/b8b81899-a984-be85-5656-ec1f2fc10227/5_Love_poem.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/kr/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          },
+          {
+            "genreId": "21",
+            "name": "록",
+            "url": "https://itunes.apple.com/kr/genre/id21"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/blueming/1488300927?i=1488300930&;app=music"
+      },
+      {
+        "artistName": "조이",
+        "id": "1569172691",
+        "releaseDate": "2021-05-31",
+        "name": "안녕",
+        "collectionName": "안녕 - Special Album - EP",
+        "kind": "song",
+        "copyright": "℗ 2021 SM Entertainment",
+        "artistId": "1368713719",
+        "artistUrl": "https://music.apple.com/kr/artist/%EC%A1%B0%EC%9D%B4/1368713719?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/2b/6d/08/2b6d08f3-3a5d-1aea-1510-73e5c2c9500c/Digital_Cover_JOY_Hello_-_Special_Album.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/kr/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/%EC%95%88%EB%85%95/1569172688?i=1569172691&;app=music"
+      },
+      {
+        "artistName": "이무진",
+        "id": "1572573548",
+        "releaseDate": "2021-06-18",
+        "name": "비와 당신",
+        "collectionName": "슬기로운 의사생활 시즌 2, Pt. 1 (Original Television Soundtrack) - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Studio MaumC, eggiscoming, Stone Music Entertainment",
+        "artistId": "1567544636",
+        "artistUrl": "https://music.apple.com/kr/artist/%EC%9D%B4%EB%AC%B4%EC%A7%84/1567544636?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d4/cc/ea/d4ccea77-1a22-77b1-df17-1a6796fcb1a0/888272082081_Cover.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "16",
+            "name": "OST",
+            "url": "https://itunes.apple.com/kr/genre/id16"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/%EB%B9%84%EC%99%80-%EB%8B%B9%EC%8B%A0/1572573546?i=1572573548&;app=music"
+      },
+      {
+        "artistName": "악동뮤지션",
+        "id": "1577524108",
+        "releaseDate": "2021-07-26",
+        "name": "BENCH (with Zion.T)",
+        "collectionName": "NEXT EPISODE - EP",
+        "kind": "song",
+        "copyright": "℗ 2021 YG Entertainment",
+        "artistId": "747306596",
+        "artistUrl": "https://music.apple.com/kr/artist/%EC%95%85%EB%8F%99%EB%AE%A4%EC%A7%80%EC%85%98/747306596?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/12/31/63/12316366-55bb-065c-8ad9-47e107fa79b2/AKMU_NEXT_EPISODE.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/kr/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/bench-with-zion-t/1577524102?i=1577524108&;app=music"
+      },
+      {
+        "artistName": "브레이브걸스",
+        "id": "1574321622",
+        "releaseDate": "2017-03-07",
+        "name": "롤린",
+        "collectionName": "Rollin' - EP",
+        "kind": "song",
+        "copyright": "℗ 2017 2017 Brave Entertainment,under license to Kakao Entertainmnet",
+        "artistId": "1084618111",
+        "artistUrl": "https://music.apple.com/kr/artist/%EB%B8%8C%EB%A0%88%EC%9D%B4%EB%B8%8C%EA%B1%B8%EC%8A%A4/1084618111?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/41/3e/5b/413e5bf7-826e-21b4-ff73-b594f659c3e8/1.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/kr/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/%EB%A1%A4%EB%A6%B0/1574321621?i=1574321622&;app=music"
+      },
+      {
+        "artistName": "Maroon 5 & Megan Thee Stallion",
+        "id": "1556706159",
+        "releaseDate": "2021-03-03",
+        "name": "Beautiful Mistakes",
+        "collectionName": "Beautiful Mistakes - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Interscope Records (222 Records)",
+        "artistId": "1798556",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=kr&;ids=1798556-1258989914&app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/75/90/6f/75906fda-bc17-2cd0-6cec-33cbbbd0514f/21UMGIM12488.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/beautiful-mistakes/1556706156?i=1556706159&;app=music"
+      },
+      {
+        "artistName": "The Weeknd",
+        "id": "1488408568",
+        "releaseDate": "2019-11-29",
+        "name": "Blinding Lights",
+        "collectionName": "Blinding Lights - Single",
+        "kind": "song",
+        "copyright": "℗ 2019 The Weeknd XO, Inc., manufactured and marketed by Republic Records, a division of UMG Recordings, Inc.",
+        "artistId": "479756766",
+        "artistUrl": "https://music.apple.com/kr/artist/the-weeknd/479756766?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/75/e0/de/75e0de8e-8e36-4f60-c701-2b88d92ca27c/19UM1IM04638.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "15",
+            "name": "R&B/소울",
+            "url": "https://itunes.apple.com/kr/genre/id15"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/blinding-lights/1488408555?i=1488408568&;app=music"
+      },
+      {
+        "artistName": "STAYC",
+        "id": "1561143399",
+        "releaseDate": "2021-04-08",
+        "name": "ASAP",
+        "collectionName": "STAYDOM - EP",
+        "kind": "song",
+        "copyright": "℗ 2021 High Up Entertainment,under license to Kakao Entertainment",
+        "artistId": "1538881438",
+        "artistUrl": "https://music.apple.com/kr/artist/stayc/1538881438?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/ff/f0/44/fff044b5-8d7c-b728-76be-5b214c5fecf0/STAYC_STAYDOM_JPG.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/kr/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/asap/1561143398?i=1561143399&;app=music"
+      },
+      {
+        "artistName": "ROSÉ",
+        "id": "1556785522",
+        "releaseDate": "2021-03-12",
+        "name": "On The Ground",
+        "collectionName": "R - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 YG Entertainment",
+        "artistId": "1406242696",
+        "artistUrl": "https://music.apple.com/kr/artist/ros%C3%A9/1406242696?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/6d/77/0a/6d770a0d-f90d-71d4-270d-6083177cdcfc/ROSE_DigitalAlbumCover_4000.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/kr/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/on-the-ground/1556785521?i=1556785522&;app=music"
+      },
+      {
+        "artistName": "악동뮤지션",
+        "id": "1577524111",
+        "releaseDate": "2021-07-26",
+        "name": "Stupid love song (with Crush)",
+        "collectionName": "NEXT EPISODE - EP",
+        "kind": "song",
+        "copyright": "℗ 2021 YG Entertainment",
+        "artistId": "747306596",
+        "artistUrl": "https://music.apple.com/kr/artist/%EC%95%85%EB%8F%99%EB%AE%A4%EC%A7%80%EC%85%98/747306596?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/12/31/63/12316366-55bb-065c-8ad9-47e107fa79b2/AKMU_NEXT_EPISODE.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/kr/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/stupid-love-song-with-crush/1577524102?i=1577524111&;app=music"
+      },
+      {
+        "artistName": "조정석",
+        "id": "1576623447",
+        "releaseDate": "2021-07-16",
+        "name": "좋아좋아",
+        "collectionName": "슬기로운 의사생활 시즌 2, Pt. 5 (Original Television Soundtrack) - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Studio MaumC, eggiscoming, Stone Music Entertainment",
+        "artistId": "667765988",
+        "artistUrl": "https://music.apple.com/kr/artist/%EC%A1%B0%EC%A0%95%EC%84%9D/667765988?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/3f/96/e6/3f96e6cc-a86e-ba04-fdd8-b2559a18aa91/888272083613_Cover.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "16",
+            "name": "OST",
+            "url": "https://itunes.apple.com/kr/genre/id16"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/%EC%A2%8B%EC%95%84%EC%A2%8B%EC%95%84/1576623442?i=1576623447&;app=music"
+      },
+      {
+        "artistName": "aespa",
+        "id": "1540251305",
+        "releaseDate": "2020-11-17",
+        "name": "Black Mamba",
+        "collectionName": "Black Mamba - Single",
+        "kind": "song",
+        "copyright": "℗ 2020 SM Entertainment",
+        "artistId": "1540251304",
+        "artistUrl": "https://music.apple.com/kr/artist/aespa/1540251304?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/1f/53/e2/1f53e291-df44-bb66-1c29-6e74c2b0eab0/aespa_BlackMamba_final.png/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/kr/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/black-mamba/1540251303?i=1540251305&;app=music"
+      },
+      {
+        "artistName": "방탄소년단",
+        "id": "1458938370",
+        "releaseDate": "2019-04-12",
+        "name": "작은 것들을 위한 시 (feat. Halsey)",
+        "collectionName": "MAP OF THE SOUL : PERSONA",
+        "kind": "song",
+        "copyright": "℗ 2019 Bighit Entertainment",
+        "artistId": "883131348",
+        "artistUrl": "https://music.apple.com/kr/artist/%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8/883131348?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/76/81/ab/7681abd2-2786-1504-d6bd-6a02eaf6c47a/193483706238.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/kr/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/%EC%9E%91%EC%9D%80-%EA%B2%83%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%8B%9C-feat-halsey/1458938366?i=1458938370&;app=music"
+      },
+      {
+        "artistName": "BLACKPINK",
+        "id": "1519364407",
+        "releaseDate": "2020-06-26",
+        "name": "How You Like That",
+        "collectionName": "How You Like That - Single",
+        "kind": "song",
+        "copyright": "℗ 2020 YG Entertainment",
+        "artistId": "1141774019",
+        "artistUrl": "https://music.apple.com/kr/artist/blackpink/1141774019?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/6e/c8/57/6ec857a9-ab4e-d731-a854-0594df54edad/BP_HYLT_DS_4000_4000.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/kr/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "팝",
+            "url": "https://itunes.apple.com/kr/genre/id14"
+          },
+          {
+            "genreId": "18",
+            "name": "힙합/랩",
+            "url": "https://itunes.apple.com/kr/genre/id18"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/how-you-like-that/1519364406?i=1519364407&;app=music"
+      },
+      {
+        "artistName": "Post Malone",
+        "id": "1575618768",
+        "releaseDate": "2021-07-09",
+        "name": "Motley Crew",
+        "collectionName": "Motley Crew - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Republic Records, a division of UMG Recordings, Inc.",
+        "artistId": "966309175",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/kr/artist/post-malone/966309175?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/a4/0c/cc/a40ccce6-794f-5ff3-8c6b-64c3f0d78817/21UMGIM61404.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "힙합/랩",
+            "url": "https://itunes.apple.com/kr/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "음악",
+            "url": "https://itunes.apple.com/kr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/kr/album/motley-crew/1575618656?i=1575618768&;app=music"
+      }
+    ]
+  }
+}

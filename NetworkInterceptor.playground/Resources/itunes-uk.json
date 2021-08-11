@@ -1,0 +1,1319 @@
+{
+  "feed": {
+    "title": "Top Songs",
+    "id": "https://rss.itunes.apple.com/api/v1/gb/apple-music/top-songs/all/50/explicit.json",
+    "author": {
+      "name": "iTunes Store",
+      "uri": "http://wwww.apple.com/gb/itunes/"
+    },
+    "links": [
+      {
+        "self": "https://rss.itunes.apple.com/api/v1/gb/apple-music/top-songs/all/50/explicit.json"
+      },
+      {
+        "alternate": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?genreId=34&;popId=81&app=music"
+      }
+    ],
+    "copyright": "Copyright © 2018 Apple Inc. Tutti i diritti riservati.",
+    "country": "gb",
+    "icon": "http://itunes.apple.com/favicon.ico",
+    "updated": "2021-08-09T01:26:37.000-07:00",
+    "results": [
+      {
+        "artistName": "Ed Sheeran",
+        "id": "1571330212",
+        "releaseDate": "2021-06-25",
+        "name": "Bad Habits",
+        "collectionName": "Bad Habits - Single",
+        "kind": "song",
+        "copyright": "An Asylum Records UK release, a division of Atlantic Records UK, ℗ 2021 Warner Music UK Limited",
+        "artistId": "183313439",
+        "artistUrl": "https://music.apple.com/gb/artist/ed-sheeran/183313439?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/aa/02/57/aa025710-a0c6-90e9-4a18-2881efad4855/190296614316.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/bad-habits/1571330207?i=1571330212&;app=music"
+      },
+      {
+        "artistName": "The Kid LAROI & Justin Bieber",
+        "id": "1574378625",
+        "releaseDate": "2021-07-09",
+        "name": "Stay",
+        "collectionName": "Stay - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Columbia Records, a Division of Sony Music Entertainment",
+        "artistId": "1435848034",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=gb&;ids=1435848034-320569549&app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/e8/eb/cc/e8ebcc8d-6293-6e7f-7cc5-defa2bdbd4bd/886449399895.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/stay/1574378620?i=1574378625&;app=music"
+      },
+      {
+        "artistName": "Jonasu",
+        "id": "1543302924",
+        "releaseDate": "2020-12-18",
+        "name": "Black Magic",
+        "collectionName": "Black Magic - Single",
+        "kind": "song",
+        "copyright": "℗ 2020 3Beat Productions Limited",
+        "artistId": "1411696813",
+        "artistUrl": "https://music.apple.com/gb/artist/jonasu/1411696813?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/23/81/27/238127f9-bec3-639a-6f8a-efce1192850e/20UM1IM07632.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "17",
+            "name": "Dance",
+            "url": "https://itunes.apple.com/gb/genre/id17"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/black-magic/1543302923?i=1543302924&;app=music"
+      },
+      {
+        "artistName": "Olivia Rodrigo",
+        "id": "1560735551",
+        "releaseDate": "2021-05-21",
+        "name": "good 4 u",
+        "collectionName": "SOUR",
+        "kind": "song",
+        "copyright": "℗ 2021 Olivia Rodrigo, under exclusive license to Geffen Records",
+        "artistId": "979458609",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/gb/artist/olivia-rodrigo/979458609?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/33/fd/32/33fd32b1-0e43-9b4a-8ed6-19643f23544e/21UMGIM26092.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/good-4-u/1560735414?i=1560735551&;app=music"
+      },
+      {
+        "artistName": "Dave & Stormzy",
+        "id": "1575534955",
+        "name": "Clash",
+        "collectionName": "We're All Alone In This Together",
+        "kind": "song",
+        "copyright": "℗ 2021 Dave / Neighbourhood Recordings",
+        "artistId": "1093500131",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=gb&;ids=1093500131-394865154&app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a8/53/f8/a853f81d-f8bf-6a94-74bd-fd27d3f1ee97/21UMGIM61866.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/gb/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/clash/1575534808?i=1575534955&;app=music"
+      },
+      {
+        "artistName": "Becky Hill & David Guetta",
+        "id": "1570736952",
+        "releaseDate": "2021-06-18",
+        "name": "Remember",
+        "collectionName": "Remember - Single",
+        "kind": "song",
+        "copyright": "A Polydor / Eko Records Release; ℗ 2021 Universal Music Operations Limited",
+        "artistId": "533839517",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=gb&;ids=533839517-5557599&app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/6c/c5/c2/6cc5c243-7151-05b8-6942-b98168cefa01/21UMGIM47963.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/remember/1570736949?i=1570736952&;app=music"
+      },
+      {
+        "artistName": "Galantis, David Guetta & Little Mix",
+        "id": "1566166349",
+        "releaseDate": "2021-05-20",
+        "name": "Heartbreak Anthem",
+        "collectionName": "Heartbreak Anthem - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Atlantic Recording Corporation",
+        "artistId": "543322169",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=gb&;ids=543322169-5557599-477515548&app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/cf/72/3d/cf723dce-7b1f-97f8-052f-82122116b358/075679790828.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "17",
+            "name": "Dance",
+            "url": "https://itunes.apple.com/gb/genre/id17"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/heartbreak-anthem/1566166345?i=1566166349&;app=music"
+      },
+      {
+        "artistName": "Billie Eilish",
+        "id": "1564531202",
+        "releaseDate": "2021-07-30",
+        "name": "Happier Than Ever",
+        "collectionName": "Happier Than Ever",
+        "kind": "song",
+        "copyright": "℗ 2021 Darkroom/Interscope Records",
+        "artistId": "1065981054",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/gb/artist/billie-eilish/1065981054?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/2d/f3/c9/2df3c9fd-e0eb-257c-c035-b04f05a66580/21UMGIM36691.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/gb/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/happier-than-ever/1564530719?i=1564531202&;app=music"
+      },
+      {
+        "artistName": "The Weeknd",
+        "id": "1579408008",
+        "releaseDate": "2021-08-06",
+        "name": "Take My Breath",
+        "collectionName": "Take My Breath - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 The Weeknd XO, Inc., marketed by Republic Records, a division of UMG Recordings, Inc.",
+        "artistId": "479756766",
+        "artistUrl": "https://music.apple.com/gb/artist/the-weeknd/479756766?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b1/1b/10/b11b1074-5109-7bfc-32f0-8b49eaaeb9ac/21UMGIM75290.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "15",
+            "name": "R&B/Soul",
+            "url": "https://itunes.apple.com/gb/genre/id15"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/take-my-breath/1579408007?i=1579408008&;app=music"
+      },
+      {
+        "artistName": "Rain Radio & DJ Craig Gorman",
+        "id": "1565472449",
+        "releaseDate": "2021-05-14",
+        "name": "Talk About",
+        "collectionName": "Talk About - Single",
+        "kind": "song",
+        "copyright": "A Polydor Records Release; ℗ 2021 Universal Music Operations Limited",
+        "artistId": "1565472447",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=gb&;ids=1565472447-1565472448&app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/7a/a9/b6/7aa9b628-715a-de9c-a13b-446027d7e279/21UMGIM32749.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "17",
+            "name": "Dance",
+            "url": "https://itunes.apple.com/gb/genre/id17"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/talk-about/1565472443?i=1565472449&;app=music"
+      },
+      {
+        "artistName": "Anne-Marie & Little Mix",
+        "id": "1567637894",
+        "releaseDate": "2021-07-23",
+        "name": "Kiss My (Uh Oh)",
+        "collectionName": "Therapy",
+        "kind": "song",
+        "copyright": "A Major Toms / Asylum Records release, ℗ 2021 Warner Music UK Limited.",
+        "artistId": "474724108",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=gb&;ids=474724108-477515548&app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/29/5f/8f/295f8ff5-9d34-fe38-8611-10b979fbcf45/190296697425.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/kiss-my-uh-oh/1567637891?i=1567637894&;app=music"
+      },
+      {
+        "artistName": "Wizkid",
+        "id": "1531532767",
+        "releaseDate": "2020-10-28",
+        "name": "Essence (feat. Tems)",
+        "collectionName": "Made In Lagos",
+        "kind": "song",
+        "copyright": "℗ 2020 Starboy Entertainment Ltd., under exclusive license to RCA Records",
+        "artistId": "309335750",
+        "artistUrl": "https://music.apple.com/gb/artist/wizkid/309335750?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/b0/09/8e/b0098ed0-ef53-f2b5-386a-c8e6181f3c8a/886448775256.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "19",
+            "name": "Worldwide",
+            "url": "https://itunes.apple.com/gb/genre/id19"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/essence-feat-tems/1531532301?i=1531532767&;app=music"
+      },
+      {
+        "artistName": "Måneskin",
+        "id": "1556035502",
+        "releaseDate": "2021-03-19",
+        "name": "I WANNA BE YOUR SLAVE",
+        "collectionName": "Teatro d'Ira - Vol. I",
+        "kind": "song",
+        "copyright": "℗ A RCA release (P) 2021 Sony Music Entertainmnet Italy S.p.a.",
+        "artistId": "1312874741",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/gb/artist/m%C3%A5neskin/1312874741?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/4b/1a/72/4b1a7220-bee2-8664-7153-adffa8d3df1e/886449063819.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/gb/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/i-wanna-be-your-slave/1556035498?i=1556035502&;app=music"
+      },
+      {
+        "artistName": "Dave",
+        "id": "1575534957",
+        "releaseDate": "2021-07-23",
+        "name": "In The Fire",
+        "collectionName": "We're All Alone In This Together",
+        "kind": "song",
+        "copyright": "℗ 2021 Dave / Neighbourhood Recordings",
+        "artistId": "1093500131",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/gb/artist/dave/1093500131?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a8/53/f8/a853f81d-f8bf-6a94-74bd-fd27d3f1ee97/21UMGIM61866.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/gb/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/in-the-fire/1575534808?i=1575534957&;app=music"
+      },
+      {
+        "artistName": "Dave",
+        "id": "1575534950",
+        "releaseDate": "2021-07-23",
+        "name": "Verdansk",
+        "collectionName": "We're All Alone In This Together",
+        "kind": "song",
+        "copyright": "℗ 2021 Dave / Neighbourhood Recordings",
+        "artistId": "1093500131",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/gb/artist/dave/1093500131?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a8/53/f8/a853f81d-f8bf-6a94-74bd-fd27d3f1ee97/21UMGIM61866.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/gb/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/verdansk/1575534808?i=1575534950&;app=music"
+      },
+      {
+        "artistName": "Olivia Rodrigo",
+        "id": "1560735421",
+        "releaseDate": "2021-05-21",
+        "name": "traitor",
+        "collectionName": "SOUR",
+        "kind": "song",
+        "copyright": "℗ 2021 Olivia Rodrigo, under exclusive license to Geffen Records",
+        "artistId": "979458609",
+        "artistUrl": "https://music.apple.com/gb/artist/olivia-rodrigo/979458609?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/33/fd/32/33fd32b1-0e43-9b4a-8ed6-19643f23544e/21UMGIM26092.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/traitor/1560735414?i=1560735421&;app=music"
+      },
+      {
+        "artistName": "Calvin Harris",
+        "id": "1567441579",
+        "releaseDate": "2021-06-04",
+        "name": "By Your Side (feat. Tom Grennan)",
+        "collectionName": "By Your Side (feat. Tom Grennan) - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Sony Music Entertainment UK Limited",
+        "artistId": "201955086",
+        "artistUrl": "https://music.apple.com/gb/artist/calvin-harris/201955086?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/30/7a/46/307a46d3-6fbb-be40-ba74-5d58168f9587/886449246786.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "17",
+            "name": "Dance",
+            "url": "https://itunes.apple.com/gb/genre/id17"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/by-your-side-feat-tom-grennan/1567441576?i=1567441579&;app=music"
+      },
+      {
+        "artistName": "KSI",
+        "id": "1570535354",
+        "releaseDate": "2021-06-18",
+        "name": "Holiday",
+        "collectionName": "Holiday - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Beerus Ltd under exclusive license to RBC Records / BMG Rights Management (US) LLC",
+        "artistId": "489704062",
+        "artistUrl": "https://music.apple.com/gb/artist/ksi/489704062?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5f/00/19/5f0019a3-7e02-ff0a-8d45-6ee93c30da56/4050538683516.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/holiday/1570535351?i=1570535354&;app=music"
+      },
+      {
+        "artistName": "Måneskin",
+        "id": "1320781379",
+        "releaseDate": "2017-12-08",
+        "name": "Beggin",
+        "collectionName": "Chosen",
+        "kind": "song",
+        "copyright": "℗ 2017 Sony Music Entertainment Italy S.p.A.",
+        "artistId": "1312874741",
+        "artistUrl": "https://music.apple.com/gb/artist/m%C3%A5neskin/1312874741?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/67/08/e0/6708e014-c1be-76b1-c520-a6567bf946a2/886446867755.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/gb/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/beggin/1320780883?i=1320781379&;app=music"
+      },
+      {
+        "artistName": "Doja Cat",
+        "id": "1561866170",
+        "releaseDate": "2021-04-09",
+        "name": "Kiss Me More (feat. SZA)",
+        "collectionName": "Kiss Me More (feat. SZA) - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Kemosabe Records/RCA Records",
+        "artistId": "830588310",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/gb/artist/doja-cat/830588310?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/84/bb/4f/84bb4f76-20cb-7945-84be-af73777d42ac/886449138791.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/kiss-me-more-feat-sza/1561866167?i=1561866170&;app=music"
+      },
+      {
+        "artistName": "Lil Nas X & Jack Harlow",
+        "id": "1576552565",
+        "releaseDate": "2021-07-23",
+        "name": "INDUSTRY BABY",
+        "collectionName": "INDUSTRY BABY - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Columbia Records, a Division of Sony Music Entertainment",
+        "artistId": "1400730578",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=gb&;ids=1400730578-1047679432&app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/79/d7/66/79d7669f-36ff-46fb-16cb-b86fd321ef25/886449403912.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/gb/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/industry-baby/1576552540?i=1576552565&;app=music"
+      },
+      {
+        "artistName": "Anne-Marie & Niall Horan",
+        "id": "1566144680",
+        "releaseDate": "2021-05-21",
+        "name": "Our Song",
+        "collectionName": "Our Song - Single",
+        "kind": "song",
+        "copyright": "A Major Toms / Asylum Records release, ℗ 2021 Warner Music UK Limited.",
+        "artistId": "474724108",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=gb&;ids=474724108-471260298&app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/15/2e/dd/152edd89-0c10-46af-dc38-084615675110/190296670121.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/our-song/1566144679?i=1566144680&;app=music"
+      },
+      {
+        "artistName": "Dave & Wizkid",
+        "id": "1575535088",
+        "name": "System",
+        "collectionName": "We're All Alone In This Together",
+        "kind": "song",
+        "copyright": "℗ 2021 Dave / Neighbourhood Recordings",
+        "artistId": "1093500131",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=gb&;ids=1093500131-309335750&app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a8/53/f8/a853f81d-f8bf-6a94-74bd-fd27d3f1ee97/21UMGIM61866.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/gb/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/system/1575534808?i=1575535088&;app=music"
+      },
+      {
+        "artistName": "Sigala & Rita Ora",
+        "id": "1571183609",
+        "releaseDate": "2021-07-02",
+        "name": "You for Me",
+        "collectionName": "You for Me - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Ministry of Sound Recordings Limited/B1 Recordings GmbH. a Sony Music Entertainment Company",
+        "artistId": "912773746",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=gb&;ids=912773746-355898104&app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/97/f5/87/97f58777-ba80-c3f1-18fa-7ce22c6509b3/886449360543.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "17",
+            "name": "Dance",
+            "url": "https://itunes.apple.com/gb/genre/id17"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/you-for-me/1571183605?i=1571183609&;app=music"
+      },
+      {
+        "artistName": "Clean Bandit & Topic",
+        "id": "1576694582",
+        "name": "Drive (feat. Wes Nelson)",
+        "collectionName": "Drive (feat. Wes Nelson) - Single",
+        "kind": "song",
+        "copyright": "An Atlantic Records UK release., ℗ 2021 Warner Music UK Limited.",
+        "artistId": "463049461",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=gb&;ids=463049461-1075860684&app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/35/17/76/3517765d-b7cd-07bd-7803-2344664a32c3/190296526053.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "7",
+            "name": "Electronic",
+            "url": "https://itunes.apple.com/gb/genre/id7"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/drive-feat-wes-nelson/1576693984?i=1576694582&;app=music"
+      },
+      {
+        "artistName": "Doja Cat",
+        "id": "1571169194",
+        "name": "Need To Know",
+        "collectionName": "Planet Her",
+        "kind": "song",
+        "copyright": "℗ 2021 Kemosabe Records/RCA Records",
+        "artistId": "830588310",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/gb/artist/doja-cat/830588310?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/eb/63/fc/eb63fc4c-f36b-5981-a790-8f05c8dd2df1/886449138852.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/need-to-know/1571168930?i=1571169194&;app=music"
+      },
+      {
+        "artistName": "The Weeknd & Ariana Grande",
+        "id": "1563812775",
+        "releaseDate": "2021-04-23",
+        "name": "Save Your Tears (Remix)",
+        "collectionName": "Save Your Tears (Remix) - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 The Weeknd XO, Inc., marketed by Republic Records, a division of UMG Recordings, Inc.",
+        "artistId": "479756766",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=gb&;ids=479756766-412778295&app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/bb/35/39/bb353980-b0c7-eac5-9509-267feb48d1b3/21UMGIM33221.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "15",
+            "name": "R&B/Soul",
+            "url": "https://itunes.apple.com/gb/genre/id15"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/save-your-tears-remix/1563812774?i=1563812775&;app=music"
+      },
+      {
+        "artistName": "Joel Corry, RAYE & David Guetta",
+        "id": "1552434656",
+        "releaseDate": "2021-02-26",
+        "name": "BED",
+        "collectionName": "BED - Single",
+        "kind": "song",
+        "copyright": "Under exclusive licence to Asylum Records UK, a division of Warner Music UK Limited, ℗ 2021 Perfect Havoc Limited",
+        "artistId": "1001696240",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=gb&;ids=1001696240-261686-5557599&app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/a7/b5/e7/a7b5e7f9-6f3c-90b5-bd06-6f758901e19e/190295046682.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "17",
+            "name": "Dance",
+            "url": "https://itunes.apple.com/gb/genre/id17"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          },
+          {
+            "genreId": "1048",
+            "name": "House",
+            "url": "https://itunes.apple.com/gb/genre/id1048"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/bed/1552434655?i=1552434656&;app=music"
+      },
+      {
+        "artistName": "PS1",
+        "id": "1557257297",
+        "releaseDate": "2021-04-08",
+        "name": "Life Goes On (feat. Alex Hosking)",
+        "collectionName": "Life Goes On (feat. Alex Hosking) - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Perfect Havoc Limited under exclusive license to Sony Music Entertainment UK Limited",
+        "artistId": "1500484439",
+        "artistUrl": "https://music.apple.com/gb/artist/ps1/1500484439?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/96/b2/8d/96b28df0-7778-5f6d-feae-4fa9f49b7051/886449147946.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "17",
+            "name": "Dance",
+            "url": "https://itunes.apple.com/gb/genre/id17"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/life-goes-on-feat-alex-hosking/1557257295?i=1557257297&;app=music"
+      },
+      {
+        "artistName": "Marshmello & Jonas Brothers",
+        "id": "1568213204",
+        "releaseDate": "2021-05-21",
+        "name": "Leave Before You Love Me",
+        "collectionName": "Leave Before You Love Me - Single",
+        "kind": "song",
+        "copyright": "Republic Records; ℗ 2021 Joytime Collective, under exclusive license to UMG Recordings, Inc.",
+        "artistId": "980795202",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=gb&;ids=980795202-114342891&app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6d/b0/25/6db0252f-6491-1cce-7863-02d7d4c37b91/21UMGIM44955.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/leave-before-you-love-me/1568213123?i=1568213204&;app=music"
+      },
+      {
+        "artistName": "Mabel",
+        "id": "1570515605",
+        "releaseDate": "2021-06-18",
+        "name": "Let Them Know",
+        "collectionName": "Let Them Know - Single",
+        "kind": "song",
+        "copyright": "A Polydor Records Release; ℗ 2021 Mabel McVey, under exclusive licence to Universal Music Operations Limited",
+        "artistId": "1056294097",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/gb/artist/mabel/1056294097?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/a6/44/ce/a644ce38-6a50-4718-347e-0482793cae9f/21UMGIM40646.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/let-them-know/1570515599?i=1570515605&;app=music"
+      },
+      {
+        "artistName": "Olivia Rodrigo",
+        "id": "1560735548",
+        "releaseDate": "2021-04-01",
+        "name": "deja vu",
+        "collectionName": "*O*R",
+        "kind": "song",
+        "copyright": "℗ 2021 Olivia Rodrigo, under exclusive license to Geffen Records",
+        "artistId": "979458609",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/gb/artist/olivia-rodrigo/979458609?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/91/0e/58/910e58d7-5853-3ca5-1b18-c9244899d363/21UMGIM26092.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/deja-vu/1560735414?i=1560735548&;app=music"
+      },
+      {
+        "artistName": "Mimi Webb",
+        "id": "1569708319",
+        "releaseDate": "2021-06-11",
+        "name": "Dumb Love",
+        "collectionName": "Dumb Love - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Epic Records, a division of Sony Music Entertainment",
+        "artistId": "1294518981",
+        "artistUrl": "https://music.apple.com/gb/artist/mimi-webb/1294518981?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/91/32/f4/9132f407-b635-92b3-675d-6e2f24181d44/886449086894.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/dumb-love/1569708313?i=1569708319&;app=music"
+      },
+      {
+        "artistName": "Ella Henderson & Tom Grennan",
+        "id": "1550157763",
+        "releaseDate": "2021-02-19",
+        "name": "Let’s Go Home Together",
+        "collectionName": "Let’s Go Home Together - Single",
+        "kind": "song",
+        "copyright": "A Major Toms / Asylum Records UK release, ℗ 2021 Warner Music UK Limited.",
+        "artistId": "567487911",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=gb&;ids=567487911-1089156574&app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/28/3a/4e/283a4e43-8599-b261-9b6c-2a5d504c2e5b/190295016494.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/lets-go-home-together/1550157762?i=1550157763&;app=music"
+      },
+      {
+        "artistName": "Dave & Boj",
+        "id": "1575535089",
+        "releaseDate": "2021-07-23",
+        "name": "Lazarus",
+        "collectionName": "We're All Alone In This Together",
+        "kind": "song",
+        "copyright": "℗ 2021 Dave / Neighbourhood Recordings",
+        "artistId": "1093500131",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=gb&;ids=1093500131-1057501462&app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a8/53/f8/a853f81d-f8bf-6a94-74bd-fd27d3f1ee97/21UMGIM61866.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/gb/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/lazarus/1575534808?i=1575535089&;app=music"
+      },
+      {
+        "artistName": "Lil Nas X",
+        "id": "1560908105",
+        "releaseDate": "2021-03-26",
+        "name": "MONTERO (Call Me By Your Name)",
+        "collectionName": "MONTERO (Call Me By Your Name) - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Columbia Records, a Division of Sony Music Entertainment",
+        "artistId": "1400730578",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/gb/artist/lil-nas-x/1400730578?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/36/0b/f9/360bf9dd-4298-db13-e41f-e22235afeacb/886449203512.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/montero-call-me-by-your-name/1560908103?i=1560908105&;app=music"
+      },
+      {
+        "artistName": "Mentis",
+        "id": "1565120243",
+        "releaseDate": "2021-04-27",
+        "name": "Excuses (feat. Kate Wild)",
+        "collectionName": "Excuses (feat. Kate Wild) - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 SS Records Limited Under Exclusive Licence to Sony Music Entertainment UK Limited",
+        "artistId": "1169538540",
+        "artistUrl": "https://music.apple.com/gb/artist/mentis/1169538540?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/ca/d5/7d/cad57dbe-5934-b955-accd-6ff85e77c633/886449265411.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "17",
+            "name": "Dance",
+            "url": "https://itunes.apple.com/gb/genre/id17"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/excuses-feat-kate-wild/1565120240?i=1565120243&;app=music"
+      },
+      {
+        "artistName": "Fredo",
+        "id": "1575405219",
+        "releaseDate": "2021-08-06",
+        "name": "14 (feat. Potter Payper)",
+        "collectionName": "Independence Day",
+        "kind": "song",
+        "copyright": "℗ 2021 Since 93",
+        "artistId": "31427440",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/gb/artist/fredo/31427440?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d9/57/7a/d9577ae8-eb2f-8009-7973-370896c21475/886449431403.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/gb/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/14-feat-potter-payper/1575404765?i=1575405219&;app=music"
+      },
+      {
+        "artistName": "Fredo",
+        "id": "1575405240",
+        "name": "Flowers and the Snow",
+        "collectionName": "Independence Day",
+        "kind": "song",
+        "copyright": "℗ 2021 Since 93",
+        "artistId": "31427440",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/gb/artist/fredo/31427440?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d9/57/7a/d9577ae8-eb2f-8009-7973-370896c21475/886449431403.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/gb/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/flowers-and-the-snow/1575404765?i=1575405240&;app=music"
+      },
+      {
+        "artistName": "Tom Zanetti",
+        "id": "1551344930",
+        "releaseDate": "2021-02-18",
+        "name": "Didn't Know",
+        "collectionName": "Didn't Know - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 SIC RECORDS",
+        "artistId": "398537116",
+        "artistUrl": "https://music.apple.com/gb/artist/tom-zanetti/398537116?app=music",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/ec/76/dc/ec76dca5-cafb-0f31-ab28-ed8afc4faebc/190296788321.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "17",
+            "name": "Dance",
+            "url": "https://itunes.apple.com/gb/genre/id17"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/didnt-know/1551344929?i=1551344930&;app=music"
+      },
+      {
+        "artistName": "KSI & Lil Wayne",
+        "id": "1578684951",
+        "releaseDate": "2021-08-05",
+        "name": "Lose",
+        "collectionName": "Lose - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Beerus Ltd under exclusive license to RBC Records / BMG Rights Management (US) LLC",
+        "artistId": "489704062",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=gb&;ids=489704062-5869117&app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/65/bc/22/65bc2273-90c8-3dbd-830e-1da005ac6b1b/4050538714432.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/gb/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/lose/1578684945?i=1578684951&;app=music"
+      },
+      {
+        "artistName": "The Weeknd",
+        "id": "1488408568",
+        "releaseDate": "2019-11-29",
+        "name": "Blinding Lights",
+        "collectionName": "Blinding Lights - Single",
+        "kind": "song",
+        "copyright": "℗ 2019 The Weeknd XO, Inc., manufactured and marketed by Republic Records, a division of UMG Recordings, Inc.",
+        "artistId": "479756766",
+        "artistUrl": "https://music.apple.com/gb/artist/the-weeknd/479756766?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/a6/6e/bf/a66ebf79-5008-8948-b352-a790fc87446b/19UM1IM04638.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "15",
+            "name": "R&B/Soul",
+            "url": "https://itunes.apple.com/gb/genre/id15"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/blinding-lights/1488408555?i=1488408568&;app=music"
+      },
+      {
+        "artistName": "Tones And I",
+        "id": "1538451008",
+        "releaseDate": "2020-11-13",
+        "name": "Fly Away",
+        "collectionName": "Fly Away - Single",
+        "kind": "song",
+        "copyright": "under exclusive license to Elektra Records LLC for the World excluding Australia and New Zealand., ℗ 2020 Bad Batch Records.",
+        "artistId": "1488123516",
+        "artistUrl": "https://music.apple.com/gb/artist/tones-and-i/1488123516?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/43/99/ff/4399ffc6-e39d-453f-cfb2-edee62a119e8/075679797988.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/gb/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/fly-away/1538450696?i=1538451008&;app=music"
+      },
+      {
+        "artistName": "Skepta & J Balvin",
+        "id": "1577428020",
+        "releaseDate": "2021-07-29",
+        "name": "Nirvana",
+        "collectionName": "All In - EP",
+        "kind": "song",
+        "copyright": "℗ 2021 Boy Better Know",
+        "artistId": "167376669",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=gb&;ids=167376669-444520760&app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/89/eb/2c/89eb2ce7-3959-cbcd-b97e-d5d232958223/196292168778.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1073",
+            "name": "Hip-Hop",
+            "url": "https://itunes.apple.com/gb/genre/id1073"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          },
+          {
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/gb/genre/id18"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/nirvana/1577428011?i=1577428020&;app=music"
+      },
+      {
+        "artistName": "Doja Cat",
+        "id": "1571169431",
+        "releaseDate": "2021-06-25",
+        "name": "Ain't Shit",
+        "collectionName": "Planet Her",
+        "kind": "song",
+        "copyright": "℗ 2021 Kemosabe Records/RCA Records",
+        "artistId": "830588310",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/gb/artist/doja-cat/830588310?app=music",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/eb/63/fc/eb63fc4c-f36b-5981-a790-8f05c8dd2df1/886449138852.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/aint-shit/1571168930?i=1571169431&;app=music"
+      },
+      {
+        "artistName": "Justin Bieber",
+        "id": "1556175857",
+        "releaseDate": "2021-03-19",
+        "name": "Peaches (feat. Daniel Caesar & GIVĒON)",
+        "collectionName": "Justice",
+        "kind": "song",
+        "copyright": "℗ 2021 Def Jam Recordings, a division of UMG Recordings, Inc.",
+        "artistId": "320569549",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/gb/artist/justin-bieber/320569549?app=music",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/f5/7a/9e/f57a9e6a-31c8-0784-dfbd-4a0120bfd4af/21UMGIM17517.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/peaches-feat-daniel-caesar-giv%C4%93on/1556175419?i=1556175857&;app=music"
+      },
+      {
+        "artistName": "MIST",
+        "id": "1571961537",
+        "releaseDate": "2021-06-24",
+        "name": "Rollin' (feat. Burna Boy)",
+        "collectionName": "Rollin' (feat. Burna Boy) - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Sickmade Records",
+        "artistId": "1129888685",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/gb/artist/mist/1129888685?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2a/05/8d/2a058d0d-2c36-73e3-019f-a943d1e58337/190296610196.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/gb/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/rollin-feat-burna-boy/1571961529?i=1571961537&;app=music"
+      },
+      {
+        "artistName": "ArrDee",
+        "id": "1568283330",
+        "releaseDate": "2021-06-03",
+        "name": "Oliver Twist",
+        "collectionName": "Oliver Twist - Single",
+        "kind": "song",
+        "copyright": "An Island Records release; ℗ 2021 ArrDee, under exclusive licence to Universal Music Operations Limited",
+        "artistId": "1354825165",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/gb/artist/arrdee/1354825165?app=music",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/34/4b/7f/344b7f94-4613-36e9-52f5-d393b443ed25/21UMGIM39822.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/gb/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/oliver-twist/1568283317?i=1568283330&;app=music"
+      },
+      {
+        "artistName": "Dave & Snoh Aalegra",
+        "id": "1575535095",
+        "releaseDate": "2021-07-23",
+        "name": "Law Of Attraction",
+        "collectionName": "We're All Alone In This Together",
+        "kind": "song",
+        "copyright": "℗ 2021 Dave / Neighbourhood Recordings",
+        "artistId": "1093500131",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=gb&;ids=1093500131-891968156&app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a8/53/f8/a853f81d-f8bf-6a94-74bd-fd27d3f1ee97/21UMGIM61866.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/gb/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/law-of-attraction/1575534808?i=1575535095&;app=music"
+      },
+      {
+        "artistName": "Olivia Rodrigo",
+        "id": "1560735424",
+        "releaseDate": "2021-01-08",
+        "name": "drivers license",
+        "collectionName": "SOUR",
+        "kind": "song",
+        "copyright": "℗ 2021 Olivia Rodrigo, under exclusive license to Geffen Records",
+        "artistId": "979458609",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/gb/artist/olivia-rodrigo/979458609?app=music",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/33/fd/32/33fd32b1-0e43-9b4a-8ed6-19643f23544e/21UMGIM26092.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/gb/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/gb/album/drivers-license/1560735414?i=1560735424&;app=music"
+      }
+    ]
+  }
+}
