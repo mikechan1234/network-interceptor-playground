@@ -17,7 +17,21 @@ class NetworkInterceptor: URLProtocol {
     
     override class func canInit(with task: URLSessionTask) -> Bool {
         
+        print("canInit(task:)")
+        
         guard let url = task.currentRequest?.url else {
+            return false
+        }
+        
+        return StubGroup.canStub(url)
+        
+    }
+    
+    override class func canInit(with request: URLRequest) -> Bool {
+        
+        print("canInit(request:)")
+        
+        guard let url = request.url else {
             return false
         }
         
@@ -27,13 +41,15 @@ class NetworkInterceptor: URLProtocol {
     
     override class func canonicalRequest(for request: URLRequest) -> URLRequest {
         
-        request
+        print("canonicalRequest")
+        return request
         
     }
     
     override class func requestIsCacheEquivalent(_ a: URLRequest, to b: URLRequest) -> Bool {
         
-        false
+        print("requestIsCacheEquivalent")
+        return false
         
     }
     
@@ -192,7 +208,7 @@ extension NetworkInterceptor {
 NetworkInterceptor.setup()
 
 let urlSession = URLSession.shared
-let itunesRSSURL = URL(string: "https://rss.itunes.apple.com/api/v1/kr/apple-music/top-songs/all/50/explicit.json")!
+let itunesRSSURL = URL(string: "https://rss.itunes.apple.com/api/v1/gb/apple-music/top-songs/all/50/explicit.json")!
 let task = urlSession.dataTask(with: itunesRSSURL) { data, response, error in
     
     print(response as Any)
